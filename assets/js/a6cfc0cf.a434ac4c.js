@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_openapi_docs=self.webpackChunkdocusaurus_openapi_docs||[]).push([[1401],{82020:function(s){s.exports=JSON.parse('{"label":"hello","permalink":"/new-docs-openapi/blog/tags/hello","allTagsPath":"/new-docs-openapi/blog/tags","count":2}')}}]);

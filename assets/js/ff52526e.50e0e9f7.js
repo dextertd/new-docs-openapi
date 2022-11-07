@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_openapi_docs=self.webpackChunkdocusaurus_openapi_docs||[]).push([[6303],{46372:function(o){o.exports=JSON.parse('{"permalink":"/new-docs-openapi/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
